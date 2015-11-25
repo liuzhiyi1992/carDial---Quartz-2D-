@@ -37,8 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		48381F771C05B66100075D24 /* carDial-2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "carDial-2.gif"; sourceTree = "<group>"; };
-		48381F781C05B66100075D24 /* carDial-1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "carDial-1.gif"; sourceTree = "<group>"; };
+		48381F771C05B66100075D24 /* carDial-2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "carDial-2.gif"; path = "KnobDemo/carDial-2.gif"; sourceTree = "<group>"; };
+		48381F781C05B66100075D24 /* carDial-1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "carDial-1.gif"; path = "KnobDemo/carDial-1.gif"; sourceTree = "<group>"; };
 		48522FB11C02B59100CBBCD6 /* MyUITest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyUITest.swift; sourceTree = "<group>"; };
 		48522FBA1C02F31700CBBCD6 /* KnobDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KnobDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		48522FBC1C02F31700CBBCD6 /* KnobDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnobDemoUITests.swift; sourceTree = "<group>"; };
@@ -97,6 +97,8 @@
 				6478EDB819B9EE0200F6F618 /* KnobDemoTests */,
 				48522FBB1C02F31700CBBCD6 /* KnobDemoUITests */,
 				6478EDA419B9EE0100F6F618 /* Products */,
+				48381F771C05B66100075D24 /* carDial-2.gif */,
+				48381F781C05B66100075D24 /* carDial-1.gif */,
 			);
 			sourceTree = "<group>";
 		};
@@ -118,8 +120,6 @@
 				F024A3581BF1CC5D00AF8681 /* Knob.swift */,
 				6478EDAC19B9EE0100F6F618 /* Main.storyboard */,
 				6478EDAF19B9EE0100F6F618 /* Images.xcassets */,
-				48381F771C05B66100075D24 /* carDial-2.gif */,
-				48381F781C05B66100075D24 /* carDial-1.gif */,
 				6478EDA619B9EE0100F6F618 /* Supporting Files */,
 			);
 			path = KnobDemo;
