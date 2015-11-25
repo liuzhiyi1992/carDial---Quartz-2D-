@@ -89,9 +89,9 @@
                                 <animations/>
                             </switch>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ine-sI-kVi">
-                                <rect key="frame" x="250" y="262" width="99" height="30"/>
+                                <rect key="frame" x="229.5" y="262" width="140" height="30"/>
                                 <animations/>
-                                <state key="normal" title="Random Value">
+                                <state key="normal" title="PressHere!!Gas-Go-">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>

@@ -168,8 +168,6 @@ private class KnobRenderer {
             pointerLayer.transform = CATransform3DMakeRotation(pointerAngle, 0.0, 0.0, 0.1)
             self.backingPointerAngle = pointerAngle
         }
-
-
     }
     
     init() {
